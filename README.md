@@ -9,40 +9,23 @@ By automating reminders of critical dates and visualizing long-term history, our
 
 ## Key Features
 ```markdown
-![Image](https://github.com/EugeniaYxy/exy.github.io/blob/master/Client%20Info.png)
-
-
-```
-
-```markdown
-[Link](url) and ![Image](src)
+Client Search
 
 ```
 
 ```markdown
-[Link](url) and ![Image](src)
+Client Information
 
 ```
 
 ```markdown
-[Link](url) and ![Image](src)
-
+Client Timeline
 ```
 
 ```markdown
-[Link](url) and ![Image](src)
-
+New Case
 ```
 
-```markdown
-[Link](url) and ![Image](src)
-
-```
-
-```markdown
-[Link](url) and ![Image](src)
-
-```
 ## Meet the Team
 * Daniel Hoang  _UX Designer_
 * Eugenia(Xingyue) Yang _Project Manager_
