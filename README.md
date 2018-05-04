@@ -9,7 +9,7 @@ By automating reminders of critical dates and visualizing long-term history, our
 
 ## Key Features
 ```markdown
-[Link](url) and ![Image](src)
+![Image](exy.github.io/Client Search.png)
 
 ```
 
