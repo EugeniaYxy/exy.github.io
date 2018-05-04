@@ -11,17 +11,20 @@ By automating reminders of critical dates and visualizing long-term history, our
 ![client search](https://user-images.githubusercontent.com/14932324/39656759-1b8347b0-4fb7-11e8-823f-3be3489836b0.png)
 
 
+
 ### Client Information
 ![client info](https://user-images.githubusercontent.com/14932324/39656835-c5e227ee-4fb7-11e8-92ce-ecd72e36edde.png)
 
 
+
 ### Client Timeline
+![timeline](https://user-images.githubusercontent.com/14932324/39656884-1cf4af66-4fb8-11e8-9de9-2b966b62592c.png)
 
 
 
-```markdown
-New Case
-```
+### New Case
+![new offenses](https://user-images.githubusercontent.com/14932324/39656870-07252486-4fb8-11e8-9087-beac6dc8cbc1.png)
+
 
 ## Meet the Team
 * Daniel Hoang  _UX Designer_
