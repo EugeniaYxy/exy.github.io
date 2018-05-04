@@ -10,16 +10,14 @@ By automating reminders of critical dates and visualizing long-term history, our
 ### Client Search
 ![client search](https://user-images.githubusercontent.com/14932324/39656759-1b8347b0-4fb7-11e8-823f-3be3489836b0.png)
 
-```
 
-```markdown
-Client Information
+### Client Information
+![client info](https://user-images.githubusercontent.com/14932324/39656835-c5e227ee-4fb7-11e8-92ce-ecd72e36edde.png)
 
-```
 
-```markdown
-Client Timeline
-```
+### Client Timeline
+
+
 
 ```markdown
 New Case
