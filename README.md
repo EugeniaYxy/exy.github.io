@@ -43,8 +43,8 @@ By automating reminders of critical dates and visualizing long-term history, our
 
 ```
 ## Meet the Team
-* Daniel Hoang  UX Designer
-* Eugenia(Xingyue) Yang Project Manager
-* Calvin Korver Developer 
-* Kyle McNulty Developer
+* Daniel Hoang  _UX Designer_
+* Eugenia(Xingyue) Yang _Project Manager_
+* Calvin Korver _Developer_ 
+* Kyle McNulty _Developer_
 
