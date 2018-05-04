@@ -6,10 +6,9 @@ In 2007, about 73% of county public defender offices exceeded the maximum recomm
 _**Shield**_ is a client-case management system that enables public defenders to track client information across multiple cases, in order to minimize human error associated with high case load, time inconsistencies, and case documentation. 
 By automating reminders of critical dates and visualizing long-term history, our users can focus on protecting the public interest without getting caught up in tedious workflows.
 
-
 ## Key Features
-```markdown
-Client Search
+### Client Search
+![client search](https://user-images.githubusercontent.com/14932324/39656759-1b8347b0-4fb7-11e8-823f-3be3489836b0.png)
 
 ```
 
