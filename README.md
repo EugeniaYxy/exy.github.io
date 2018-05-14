@@ -1,6 +1,6 @@
 # Shield 
 ## Problem Area
-In 2007, about 73% of county public defender offices exceeded the maximum recommended limit of cases. Current legal processes don’t support the variety of clients defenders must serve, such as the low income populations where permanent residence affects legal information delivery. 
+In 2015, Washington State Public Defenders were taking over 1000 cases a month and spending an inadequate 36 minutes per case. Current legal processes don’t support the variety of clients defenders must serve, such as the low income populations where permanent residence affects legal information delivery. 
 
 ## Capstone Project
 _**Shield**_ is a client-case management system that enables public defenders to track client information across multiple cases, in order to minimize human error associated with high case load, time inconsistencies, and case documentation. 
