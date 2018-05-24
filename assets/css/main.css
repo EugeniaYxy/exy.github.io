@@ -1,4 +1,7 @@
 @import url(font-awesome.min.css);
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 
 /*
 	Hyperspace by HTML5 UP
@@ -8,6 +11,28 @@
 
 /* Reset */
 
+
+.pics{
+	position: absolute;
+	top: 2.5em;
+	left: 2em;
+	width: 50px;
+	height: 50px;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.pics > img {
+	width: 35px;
+	height: 35px;
+	display: block;
+	position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
@@ -960,6 +985,7 @@
 
 	@media screen and (max-width: 736px) {
 
+
 		.row > * {
 			padding: 0 0 0 1.5em;
 		}
@@ -1174,6 +1200,9 @@
 	}
 
 	@media screen and (max-width: 480px) {
+		.pics {
+			visibility: hidden !important;
+		}
 
 		.row > * {
 			padding: 0 0 0 1.5em;
@@ -1640,7 +1669,7 @@
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
-		font-family: Arial, Helvetica, sans-serif;
+		font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
@@ -1701,6 +1730,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: bold;
+		font-family: 'Merriweather', serif;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
 	}
@@ -1759,6 +1789,11 @@
 	}
 
 	@media screen and (max-width: 736px) {
+		.pics{
+			left: 1.5em;
+			top: 2em;
+			position: absolute;
+		}
 
 		h1 {
 			font-size: 2em;
