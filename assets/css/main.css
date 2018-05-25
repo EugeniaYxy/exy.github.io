@@ -1725,6 +1725,7 @@
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 1.25em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3934,7 +3935,7 @@
 	}
 
 		#intro p {
-			font-size: 1.25em;
+			font-size: 1.5em;
 		}
 
 			@media screen and (max-width: 980px) {
