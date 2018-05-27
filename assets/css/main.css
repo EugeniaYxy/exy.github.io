@@ -1725,7 +1725,22 @@
 
 	p {
 		margin: 0 0 2em 0;
-		font-size: 1.25em;
+		font-size: 1em;
+	
+	}
+
+	p.special-size-text {
+		font-size: 1.25em !important;
+	}
+
+	@media screen and (max-width: 736px) {
+		p {
+			font-size: 1em !important
+		}
+
+		p.special-size-text {
+			font-size: 1em !important;
+		}
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2946,6 +2961,16 @@
 
 /* Split */
 
+	#one > p {
+			font-size: 1.5em;
+	}
+
+	@media screen and (max-width: 736px) {
+		font-size: 1em;
+	}	
+		
+		
+
 	.split {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -3961,3 +3986,5 @@
 			}
 
 		}
+
+
