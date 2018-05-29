@@ -1730,7 +1730,7 @@
 	}
 
 	p.special-size-text {
-		font-size: 1.25em !important;
+		font-size: 1.35em !important;
 	}
 
 	@media screen and (max-width: 736px) {
@@ -3331,7 +3331,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #3aaae1;
 		}
 
 		.wrapper.style3-alt {
