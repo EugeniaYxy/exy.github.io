@@ -22,6 +22,7 @@
 	border-radius: 50%;
 }
 
+
 .pics > img {
 	width: 35px;
 	height: 35px;
@@ -1675,6 +1676,7 @@
 		line-height: 1.75;
 	}
 
+
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
@@ -2107,6 +2109,9 @@
 		background: rgba(255, 255, 255, 0.05);
 		margin: 0 0 2em 0;
 	}
+		.features.key-feature-color {
+			background: #90d3f3
+		}
 
 		.features section {
 			padding: 3.5em 3em 1em 7em ;
