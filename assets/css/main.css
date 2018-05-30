@@ -1200,6 +1200,8 @@
 
 	}
 
+
+
 	@media screen and (max-width: 480px) {
 		.pics {
 			visibility: hidden !important;
@@ -2651,9 +2653,7 @@
 		position: relative;
 	}
 
-	#special-pic {
-		width: 35em !important;
-	}
+
 		.image img {
 			border-radius: 0.25em;
 			display: block;
